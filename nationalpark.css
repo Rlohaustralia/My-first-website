@@ -1,0 +1,68 @@
+body {color: #003366;
+    font-family: sans-serif;
+    background-color: #FFFFFF
+}
+
+h1{line-height: 200%;
+    text-indent: 1em;
+    font-family: Georgia;
+    color: #AEC3E3;
+    text-align: center;
+    background-color: #003366;
+}
+
+h2{text-indent:3%}
+
+#wrapper{width: 80%;
+        margin-right: auto;
+        margin-left: auto;
+        background-color: #F0F0F0
+}
+
+header {background-color: #003366;
+        font-family: Georgia;
+        color: #AEC3E3
+}
+
+nav {text-align: center;
+    font-weight: bold;
+}
+
+main img{float:right;
+        padding-right: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px
+}
+
+nav ul {list-style-type:decimal}
+
+dt {color: #5280C5;
+    font-family: Georgia;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-indent:3%
+}
+
+table{margin: auto;
+    text-align: center;
+}
+
+footer {background-color:whitesmoke;
+        font-size: small;
+        font-style: italic;
+        text-decoration:underline;
+        text-align: center
+}
+
+.category {font-weight: bold;
+            color: #5380C5;
+            font-family: Georgia
+}
+
+.openinghours {font-weight: bold;
+                font-size: 1.2em
+}
+
+#emphasis {font-style:italic;
+           color:crimson
+}
